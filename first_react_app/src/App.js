@@ -1,6 +1,7 @@
 import './App.css';
 import Btn from './Btn'
 import Card from './Card'
+import Guess from './Guess';
 import ModeToggler from './ModeToggler';
 
 function App() {
@@ -8,7 +9,8 @@ function App() {
     // <Card>
     //   <Btn/>
     // </Card>
-    <ModeToggler/>
+    //<ModeToggler/>
+    <Guess/>
   )
 }
 
