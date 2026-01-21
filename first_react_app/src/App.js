@@ -1,9 +1,14 @@
 import './App.css';
 import Btn from './Btn'
+import Card from './Card'
+import ModeToggler from './ModeToggler';
 
 function App() {
   return (
-    <Btn/>
+    // <Card>
+    //   <Btn/>
+    // </Card>
+    <ModeToggler/>
   )
 }
 

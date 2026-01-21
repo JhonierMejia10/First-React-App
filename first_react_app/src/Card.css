@@ -1,0 +1,9 @@
+.card{
+    margin:20px ;
+    background-color: lightblue;
+    width: 15%;
+    border: 1px solid black;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+}
